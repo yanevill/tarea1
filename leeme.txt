@@ -1,0 +1,22 @@
+_____________basico para cualquier proyecto________
+1.- crear la carpeta del proyecto
+    ejemplo "04-clima"
+2.- creamos el archivo package.json
+    npm init -y
+3.- crear el archivo principal
+    index.js o app.js
+4.- crear el archivo de variables globales
+ejemplo .env
+_____________cerramos lo basico para cualquier proyecto________
+para este proyecto, se instala
+  "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3"
+_____________
+ejemplo 
+    npm install axios@0.21.1
+    npm i axios
+_______
+
+ 
